@@ -28,7 +28,7 @@ namespace AulaC
 
             Console.Write("Informe o segundo valor:");
             double.TryParse(Console.ReadLine(), out Num2);
-         
+           adadadadada
             Console.WriteLine();
             Console.WriteLine();
 
