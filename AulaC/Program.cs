@@ -28,7 +28,7 @@ namespace AulaC
 
             Console.Write("Informe o segundo valor:");
             double.TryParse(Console.ReadLine(), out Num2);
-           adadadadada
+         
             Console.WriteLine();
             Console.WriteLine();
 
@@ -63,6 +63,13 @@ namespace AulaC
 
 
         }
-    }
 }
+}
+
+
+
+// 5 – Desenvolva um método que receba por parâmetro o um nome, e retorne a frase “Olá meu nome é: {nome recebido}”.
+//2 – Desenvolva um algoritmo que permita a entrada do nome do usuário e exiba na tela.
+//1 – Desenvolva um algoritmo que solicite a entrada de um número e calcule se o número é par ou impar.
+
 
